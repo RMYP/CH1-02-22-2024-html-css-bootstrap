@@ -1,0 +1,36 @@
+#navbar, #heroes {
+    background-color: #F1F3FF;
+}
+#feature{
+    margin-bottom: 48px;
+}
+.carousel-inner img {
+    margin: auto;
+  }
+.carousel-inner{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 20px;
+    width: 96%;
+    margin-left: 26px;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+#all-course{
+     color: black;
+}
+#learning-method-section{
+    background-color: #77287d;
+}
+#learning-method-section p, h2{
+    color: white;
+}
+#img-learning img{
+    max-width: 200px;
+    max-height: 40px;
+}
+
+  
