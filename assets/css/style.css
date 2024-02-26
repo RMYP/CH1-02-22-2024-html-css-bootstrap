@@ -10,7 +10,7 @@
 .carousel-inner{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     border-radius: 20px;
-    width: 96%;
+    width: 96%;     
     margin-left: 26px;
 }
 .carousel-control-prev-icon,
@@ -33,4 +33,6 @@
     max-height: 40px;
 }
 
-  
+/* Center elemnt */
+/* css margin-auto */
+/* bootstrap m-auto OR mx-auto for horizontal AND my-auto for vertikal*/
